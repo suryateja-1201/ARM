@@ -1,6 +1,6 @@
 ﻿param 
 (
-    [Parameter(Mandatory=$True)][string]$rgn,
+    [Parameter(Mandatory=$True)][string]$rgn
     [Parameter(Mandatory=$True)][string]$loc,
     [Parameter(Mandatory=$True)][string]$vNetworkName
     #[Parameter(Mandatory=$True)][string]$vNetworkAddress
